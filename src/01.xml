@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users>
+    <user>
+        <name>001</name>
+        <age>15</age>
+        <class>软件221</class>
+    </user>
+
+    <![CDATA[
+        if (a>b)
+    ]]>
+</users>
